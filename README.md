@@ -1,0 +1,2 @@
+My silly lib
+# mygolib
